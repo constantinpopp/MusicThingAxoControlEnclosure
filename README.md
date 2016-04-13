@@ -25,6 +25,6 @@ The sides slot in mostly in one direction only as the tabs are not centered.
 License
 =======
 
-The design is derived from Jan Vantomme's enclosure (https://github.com/vormplus/AxolotiEnclosure) to fit Tom Whitwell's Axo-Control board (https://github.com/TomWhitwell/Axo-Control).
+The design is derived from Jan Vantomme's enclosure (https://github.com/vormplus/AxolotiEnclosure) made to fit Tom Whitwell's Axo-Control board (https://github.com/TomWhitwell/Axo-Control).
 
-The design stands under the creative Creative Commons Attribution 4.0 International License.
+The design is licensed by Constantin Popp under Creative Commons Attribution 4.0 International License.
