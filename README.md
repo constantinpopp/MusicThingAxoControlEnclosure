@@ -1,7 +1,7 @@
 # MusicThingModularAxoControlEnclosure
 Enclosure for Tom Whitwell's Axo-Control board used for the Axoloti
 
-Instructions:
+Instructions
 ============
 Cut on 3 mm Perspex. Make sure the actual Perspex isn't thicker than 3.1 mm or thinner than 2.8. Otherwise the drawing may need to be adapted or the tabs need to be sanded.
 
@@ -22,7 +22,7 @@ The screws are all M3. For the bottom you would need 10 mm screws, for the top c
 The sides slot in mostly in one direction only as the tabs are not centered.
 
 
-License:
+License
 =======
 
 The design is derived from Jan Vantomme's enclosure (https://github.com/vormplus/AxolotiEnclosure) to fit Tom Whitwell's Axo-Control board (https://github.com/TomWhitwell/Axo-Control).
