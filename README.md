@@ -39,3 +39,7 @@ License
 The design is derived from Jan Vantomme's enclosure (https://github.com/vormplus/AxolotiEnclosure) made to fit Tom Whitwell's Axo-Control board (https://github.com/TomWhitwell/Axo-Control).
 
 The design is licensed by Constantin Popp / Knobtronix under Creative Commons Attribution 4.0 International License.
+
+Acknowledgement
+===============
+The work on the enclosure has been financially supported by Sam Salem. More thanks go to Rosalía Soria Luz for suggestions.
