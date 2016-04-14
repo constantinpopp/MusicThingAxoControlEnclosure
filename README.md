@@ -40,6 +40,6 @@ The design is derived from Jan Vantomme's enclosure (https://github.com/vormplus
 
 The design is licensed by Constantin Popp / Knobtronix under Creative Commons Attribution 4.0 International License.
 
-Acknowledgement
-===============
+Acknowledgements
+================
 The work on the enclosure has been financially supported by Sam Salem. More thanks go to Rosalía Soria Luz for suggestions.
