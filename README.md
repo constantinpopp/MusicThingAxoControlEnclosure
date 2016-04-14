@@ -15,7 +15,7 @@ The colour code is as follows:
 
 The colour coding works well with Visicut.
 
-With regard to the engraving / marking settings: I'd recommend a marking / engraving depth of about 1 mm. If you want to fill the engraved / marked spots with paint then the paint will stay in easier. Otherwise lesser strong marking / engraving would be suifficient.
+With regard to the engraving / marking settings: I'd recommend a marking / engraving depth of about 1 mm. If you want to fill the engraved / marked spots with paint then the paint will stay in easier. Otherwise lesser strong marking / engraving would be suifficient. If painted use Acetone / IPA Alcohol to remove excess paint after the paint has dried. Acetone works well for enamel spray based paints. Acrylic paint may also work.
 
 The screws are all M3. For the bottom you would need 10 mm screws, for the top countersunk 6 mm screws work well. I was using 2.4 nuts as spacers below the Axoloti and 7 mm female-male threaded spacers between the Axo-Control and the enclosure's top plate. Furthermore two 10 mm screws for the sides where all the connectors. Those hold two acrylic cut spacers to provide additional support for the Axo-Control. The bottom plate needs also rubber feet.
 
