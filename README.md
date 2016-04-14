@@ -5,13 +5,13 @@ Instructions
 ============
 Cut on 3 mm Perspex. Make sure the actual Perspex isn't thicker than 3.1 mm or thinner than 2.8. Otherwise the drawing may need to be adapted or the tabs need to be sanded.
 
-The colour code is as follows:
+The colour code is as follows, listed in the order of the steps:
 - blue = ignore
 - black = engrave
 - green = mark
 - yellow = mark
-- red = cut
 - purple = cut
+- red = cut
 
 The colour coding works well with Visicut.
 
